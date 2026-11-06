@@ -5,7 +5,7 @@
 Repo **público** a propósito: lo sirve GitHub Pages en
 `https://grichuy2.github.io/levo-legal/`. Existe porque Meta exige una URL de
 política de privacidad para publicar la app que programa los reels de Levo
-(`C:\levo\videos\publicar.mjs`). Cuando levo.net.mx exista, estas páginas se
+(`C:\levo\videos\publicar.mjs`). Cuando levomx.company exista, estas páginas se
 mudan ahí y se cambia la URL en la app de Meta.
 
 Nada privado entra aquí: ni credenciales, ni datos de clientes, ni notas.
