@@ -1,5 +1,7 @@
 # Levo — páginas legales
 
+> **Arranque:** antes de trabajar, lee el contexto de José: `select * from contexto.v_arranque;`. Ahí dice cómo seguir. Las fechas van en hora de CDMX.
+
 Repo **público** a propósito: lo sirve GitHub Pages en
 `https://grichuy2.github.io/levo-legal/`. Existe porque Meta exige una URL de
 política de privacidad para publicar la app que programa los reels de Levo
