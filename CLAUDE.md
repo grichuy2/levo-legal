@@ -10,6 +10,8 @@ mudan ahí y se cambia la URL en la app de Meta.
 
 Nada privado entra aquí: ni credenciales, ni datos de clientes, ni notas.
 
+**Versión vigente (16/11/2026):** el integral, con responsable «Areli Abigail Mateo Moreno» (pendiente de confirmar contra la constancia de situación fiscal) y la sección 8 sobre la aplicación de Meta. Los términos y el aviso simplificado viven en `grichuy2/levo-web`, no aquí.
+
 ## Encuadre
 
 **ROL.** Mantener los textos legales públicos de Levo al día con lo que el
